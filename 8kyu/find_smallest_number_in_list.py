@@ -14,4 +14,4 @@ def find_smallest_int(arr):
     arr.sort()
     return arr[0]
 
-# couldve used min() function. 
+# couldve used min()
